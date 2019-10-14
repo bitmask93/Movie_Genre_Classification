@@ -1,4 +1,4 @@
-# Movie_Genre_Classification
+# Movie Genre Classification
 Classify Movies into Various Genres based on the movie plots
 
 # Dataset Used : 
