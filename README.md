@@ -8,4 +8,4 @@ Classify Movies into Various Genres based on the movie plots
  # Models Used : 
  I used LSTM's, Bidirectional LSTM's for training. For embedding the movie plots, I used both Word2Vec as well as Glove Vectors.
  
- **Note: If the .ipynb file has any rendering issue, please use [this](https://nbviewer.jupyter.org) link and paste the file link for rendering.
+ **Note: If the .ipynb file has any rendering issue, please use [this](https://nbviewer.jupyter.org) link and paste the file link for rendering.**
